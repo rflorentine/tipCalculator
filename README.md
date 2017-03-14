@@ -5,7 +5,7 @@
 
 Submitted by: Robin Florentine
 
-Time spent:4 hours spent in total
+Time spent:3 hours spent in total (includes time uploading everything and getting video uploaded)  
 
 ## User Stories
 
