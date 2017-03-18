@@ -32,7 +32,6 @@ class SettingsViewController: UIViewController {
     @IBAction func defaultTipChanged(_ sender: AnyObject) {
         let defaults = UserDefaults.standard;
         defaults.set(defaultTipSetting.selectedSegmentIndex, forKey: "defaultTipPercentage")
-        print(defaultTipSetting.selectedSegmentIndex)
         defaults.synchronize()
     }
 }
