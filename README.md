@@ -14,11 +14,15 @@ The following **required** functionality is complete:
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * [ ] Settings page to change the default tip percentage.
 
+Optional Functionality
+* [ ] Set Bill Amount field as first responder so keyboard opens upon opening the app
+* [ ] Updated UI
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gifyu.com/images/TipMovie.gif' title='Tip Calculator Walkthrough' width='' alt='Tip CalculatorWalkthrough' />
+<img src='https://gifyu.com/images/TipMovie1.gif' title='Tip Calculator Walkthrough' width='' alt='Tip CalculatorWalkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
